@@ -22,7 +22,7 @@ public class Pekerjaan {
     System.out.println("Masukkan pekerjaan anda: ");
     kerja = input.nextLine();
     
-    System.out.println("Masukkan gaji anda: ");
+    System.out.println("Masukkan bilangan gaji anda: ");
     gaji = input.nextDouble();
     
     System.out.println("============================================");
